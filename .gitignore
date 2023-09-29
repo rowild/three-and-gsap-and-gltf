@@ -3,6 +3,7 @@ node_modules
 dist
 dist-ssr
 *.local
-public
+public/favicon.ico
 netlify*
 .vscode
+_BU
